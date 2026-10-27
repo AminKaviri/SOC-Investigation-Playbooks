@@ -2,7 +2,7 @@
 
 ![Focus](https://img.shields.io/badge/Focus-SOC%20Tier--1%20%2F%20Tier--2-1f6feb)
 ![Framework](https://img.shields.io/badge/Mapping-MITRE%20ATT%26CK-orange)
-![Playbooks](https://img.shields.io/badge/Playbooks-26-blue)
+![Playbooks](https://img.shields.io/badge/Playbooks-30-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 An evidence-led SOC investigation library for Windows, Active Directory, endpoints, network security, email, Linux, cloud identity and cloud control-plane incidents.
